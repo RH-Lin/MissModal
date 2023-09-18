@@ -19,8 +19,8 @@ pip install -r requirement.txt
 
 ## Download Datasets
 Provide public Multimodal Sentiment Analysis Datasets by Google Cloud Drive
-[CMU-MOSI](https://arxiv.org/abs/1606.06259):  https://drive.google.com/drive/folders/1mGDZe5ZAcb3kmrQjvpCjANcS9Nq-nEvy
-[CMU-MOSEI](https://aclanthology.org/P18-1208)£º https://drive.google.com/drive/folders/1OTmRiJ00gG4u2JIujLpsJh-cJdVDLvXc
+[CMU-MOSI](#https://arxiv.org/abs/1606.06259): https://drive.google.com/drive/folders/1mGDZe5ZAcb3kmrQjvpCjANcS9Nq-nEvy
+[CMU-MOSEI](#https://aclanthology.org/P18-1208): https://drive.google.com/drive/folders/1OTmRiJ00gG4u2JIujLpsJh-cJdVDLvXc
 ## Train
 
 
